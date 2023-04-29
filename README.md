@@ -1,0 +1,1 @@
+# Android-ADB-prikazy-pro-zacatecniky
